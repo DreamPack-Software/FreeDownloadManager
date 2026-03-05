@@ -65,6 +65,6 @@ Open-source core
 
 Secure HTTPS support
 
-📄 License
-
+## 📄 License
+---
 Free Download Manager is distributed under an open-source license (GPL-based components).
